@@ -1,0 +1,15 @@
+Budget Planner
+1. Edit finances
+	1.1. Input and delete transactions
+	1.2. Create, modify, delete categories
+	1.3. Set limits per category
+	1.4. Set alerts
+	1.5. Set overall budget
+	1.6. Import transaction history (.csv, .txt)
+2. Planning
+	1. Set goals
+	2. Add investments
+	3. View reports
+	4. View diagrams
+	5. Export reports (.pdf, .doc, .txt, .csv)
+	6. Export diagrams (.pdf, .jpg, .png)
